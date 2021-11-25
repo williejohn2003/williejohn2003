@@ -1,7 +1,7 @@
 - 👋 Hi, I’m John Campbell
 - 💼 I'm an Electrical/Software Engineer. I've been working in the profession since January 2013.
-- 🎓 I have MS in Electrical Engineering with a concentration in Computer Engineering (2015)
-- 👀 I’m interested in gaming, creating unique programs to make things i do easier.
+- 🎓 I have an MS in Electrical Engineering with a concentration in Computer Engineering (2015)
+- 👀 I’m interested in gaming and creating unique programs to make things i do easier.
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on nothing in particular. However, if it's interesting enough, i'm down.
 - 📫 How to reach me: williejohn2003@yahoo.com
